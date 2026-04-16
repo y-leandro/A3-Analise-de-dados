@@ -1,4 +1,4 @@
-# Ferramentas que serão utilizadas no processo de análise.
+# Ferramentas que serão utilizadas no processo de análise de dados.
  Será utilizado a Linguagem Python com a biblioteca python-chess que junto ao módulo chess.pgn é amplamente utilizada para analisar partidas de xadrez em formato PGN(Portable Game Notation).  
  
 ### A biblioteca utiliza bitboards para representar o estado do tabuleiro, se divide em subpacotes : 
